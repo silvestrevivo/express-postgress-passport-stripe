@@ -1,0 +1,25 @@
+{
+  "name": "express-postgress-passport-stripe",
+  "version": "1.0.0",
+  "description": "express application following the youtube tutorial from @GalloDaSballo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/silvestrevivo/express-postgress-passport-stripe.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "postgress",
+    "stripe"
+  ],
+  "author": "@silvestrevivo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvestrevivo/express-postgress-passport-stripe/issues"
+  },
+  "homepage": "https://github.com/silvestrevivo/express-postgress-passport-stripe#readme"
+}
